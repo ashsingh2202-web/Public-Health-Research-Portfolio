@@ -60,7 +60,7 @@ My work focuses on translating public health data into actionable insights that 
 
 **Focus:** Investigated demographic patterns, hospitalization predictors, and disease burden among Florida Mpox cases.
 
-🔗 Repository: [Mpox]((https://github.com/ashsingh2202-web/Mpox)
+🔗 Repository: [Mpox](https://github.com/ashsingh2202-web/Mpox)
 
 ---
 
