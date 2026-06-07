@@ -54,7 +54,7 @@ My work focuses on translating public health data into actionable insights that 
 
 ## 📂 Featured Research Projects
 
-### Mpox Surveillance Analysis
+### Mpox Surveillance Analysis (N=67 cases)
 
 **Methods:** Surveillance Epidemiology, Logistic Regression, Health Disparities Analysis
 
@@ -64,7 +64,7 @@ My work focuses on translating public health data into actionable insights that 
 
 ---
 
-### Malaria & Dengue Spatial Epidemiology
+### Malaria & Dengue Spatial Epidemiology (100+ field surveys)
 
 **Methods:** GIS Mapping, Spatial Analysis, Environmental Risk Assessment
 
@@ -74,7 +74,7 @@ My work focuses on translating public health data into actionable insights that 
 
 ---
 
-### Sickle Cell Disease: Home-Based Pain Management
+### Home-Based Pain Management Sickle Cell Disease Research (IRB-approved survey study)
 
 **Methods:** Survey Research, Healthcare Utilization Analysis
 
@@ -84,7 +84,7 @@ My work focuses on translating public health data into actionable insights that 
 
 ---
 
-### Sickle Cell Disease & Healthcare System Navigation
+### SCD Healthcare Navigation (20 qualitative interviews)
 
 **Methods:** Qualitative Research, NVivo Thematic Analysis
 
@@ -94,7 +94,7 @@ My work focuses on translating public health data into actionable insights that 
 
 ---
 
-### BRIDGE Scoping Review
+### BRIDGE Scoping Review (2,200+ records screened)
 
 **Methods:** Evidence Synthesis, Full-Text Screening, Data Extraction
 
