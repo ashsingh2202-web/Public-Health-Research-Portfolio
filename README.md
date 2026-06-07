@@ -120,4 +120,4 @@ Ashima Singh, MPH
 
 📧 [ashsingh2202@gmail.com](mailto:ashsingh2202@gmail.com)
 
-🔗 linkedin.com/in/ashimasingh-mph
+💼 [LinkedIn](https://www.linkedin.com/in/ashimasingh-mph/)
