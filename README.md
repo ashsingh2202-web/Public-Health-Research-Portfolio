@@ -1,7 +1,7 @@
 # Ashima Singh, MPH  
 **Public Health Research Portfolio**
 
-**Epidemiologist** | **Surveillance Analyst** | **Spatial Epidemiology Researcher**
+| **Epidemiologist** | **Surveillance Analyst** | **Spatial Epidemiology Researcher** |
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2.svg)](https://www.linkedin.com/in/ashimasingh-mph/)
 
