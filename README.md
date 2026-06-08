@@ -54,10 +54,6 @@ My work focuses on translating public health data into actionable insights that 
 ## 📂 Featured Research Projects
 
 ### 💉 Overdose Data-to-Action (OD2A) Program – Broward County
-**Analyst:** Ashima Singh, MPH  
-**Role:** Biological Scientist III | Epidemiologist & Data Analyst  
-**Affiliation:** Florida Department of Health in Broward County  
-
 **Tools:** REDCap · R · Excel · EpicCare · Biospatial · Public Health Surveillance  
 
 **Overview:** Leading overdose surveillance, fatality reviews (OFR), data abstraction, trend monitoring, and visualization efforts under the CDC OD2A initiative. Focus on polysubstance use patterns, mortality trends, and evidence-based prevention strategies.  
